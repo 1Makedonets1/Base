@@ -138,34 +138,52 @@
   color: #ffffff;
 }
 .different__topworkz {
-  width: 30%;
-  background: #6F90B8;
+  width: 29%;
+  background-image: url(../images/Layer1.png);
+  background-size: cover;
+  background-position: center;
   padding: 5% 0;
+  margin-bottom: 10px;
 }
 .different__join {
   width: 40%;
-  background: #54606F;
+  background-image: url(../images/Layer2.png);
+  background-size: cover;
+  background-position: center;
   padding: 5% 0;
+  margin-bottom: 10px;
 }
 .different__market {
-  width: 30%;
-  background: #9CA7B6;
+  width: 29%;
+  background-image: url(../images/Layer3.png);
+  background-size: cover;
+  background-position: center;
   padding: 5% 0;
+  margin-bottom: 10px;
 }
 .different__worktop {
-  width: 30%;
-  background: #71747E;
+  width: 29%;
+  background-image: url(../images/Layer4.png);
+  background-size: cover;
+  background-position: center;
   padding: 5% 0;
+  margin-bottom: 10px;
 }
 .different__lable {
   width: 40%;
-  background: #9AA7B8;
+  background-image: url(../images/Layer5.png);
+  background-size: cover;
+  background-position: center;
   padding: 5% 0;
+  margin-bottom: 10px;
 }
 .different__kyiv {
-  width: 30%;
-  background: #4C6996;
+  width: 29%;
+  background-image: url(../images/Layer6.png);
+  background-size: cover;
+  background-position: center;
   padding: 5% 0;
+  margin-bottom: 10px;
 }
 
 .footer {
